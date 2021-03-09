@@ -1,0 +1,40 @@
+.categoryDetails{
+    padding-left: 80px;
+    padding-top: 20px;
+    position: relative;
+}
+
+.item_deatil img{
+    width: 250px;
+    height: 200px;
+}
+
+.footerbutton{
+    position: absolute;
+    bottom: 8px;
+    left:150px;
+   
+}
+
+.footerbutton button{
+    cursor: pointer;
+}
+
+.add_button{
+    background-color: green;
+    color: white;
+}
+
+.remove_button{
+    background-color: red;
+    color: white;
+}
+.footerbutton button:hover{
+    background-color: palevioletred;
+    color: black;
+}
+
+.item_Deatils{
+    width: 350px;
+    margin-top: 20px;
+}

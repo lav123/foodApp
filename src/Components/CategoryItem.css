@@ -1,0 +1,33 @@
+.category_Item{
+    padding: 20px;
+}
+.foodItem{
+    cursor: pointer;
+    position: relative;
+}
+.foodItem img{
+    width: 270px;
+    height: 150px;
+    object-fit: contain;
+}
+
+.add_cartText{
+    position: absolute;
+    bottom: 8px;
+    left: 40%;
+    color: white;
+    font-size:20px;
+    font-weight: 400;
+}
+
+.add_cartText:hover{
+    color:lightseagreen;  
+}
+
+@media only screen and (max-width: 600px) {
+    .foodItem img{
+        width: 160px;
+        height: auto;
+        object-fit: contain;
+    }
+  }

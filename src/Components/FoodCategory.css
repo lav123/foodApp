@@ -1,0 +1,21 @@
+.footer_cartButton{
+    position: fixed;
+    bottom: 5%;
+    right: 3%;
+}
+.footer_cartButton button{
+    background-color: green;
+}
+
+.footer_cartButton button:hover{
+    background-color: limegreen;
+}
+
+.MuiBadge-anchorOriginTopRightRectangle{
+    top:10px !important;
+}
+
+h2{
+    padding-left: 70px;
+}
+

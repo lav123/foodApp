@@ -1,0 +1,64 @@
+{
+    "data":[
+        {
+            "id":1,
+            "title" : "Baked dishes",
+            "icon":"https://www.inspiredtaste.net/wp-content/uploads/2019/04/Vegetable-Baked-Pasta-Recipe-1200.jpg"
+        },
+        {
+            "id":2,
+            "title" : "Burgers",
+            "icon":"https://www.pe.com/wp-content/uploads/2020/05/RPE-L-FARMERBOYS-0513-01-1.jpg"
+        },
+        {
+            "id":3,
+            "title" : "Veggies",
+            "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsbEbyvOOAGiRGMvGTPUp5LtIvnLbPpfapwg&usqp=CAU"
+        },
+        {
+            "id":4,
+            "title" : "Healthy Food",
+            "icon":"https://c.ndtvimg.com/k03tb2a_healthy-food_625x300_17_August_18.jpg"
+        },
+        {
+            "id":5,
+            "title" : "Drinks",
+            "icon":"https://www.nouryon.com/globalassets/nouryon/2.-markets/2-market-segment-pages/beverage-applications/image-body-beverage-performance-formulations.jpg?preset=image-975w"
+        },
+        {
+            "id":6,
+            "title" : "Chiken food",
+            "icon":"https://przemekspider.com/wp-content/uploads/2017/08/Chicken-as-Food.jpg"
+        },
+        {
+            "id":7,
+            "title" : "Fish Food",
+            "icon":"http://yummyrecipes.oneshot.in/wp-content/uploads/2016/10/Fish-Fry.jpg"
+        },
+        {
+            "id":8,
+            "title" : "Sweets",
+            "icon":"https://resize.indiatvnews.com/en/resize/newbucket/715_-/2018/10/pjimage-1-1540982669.jpg"
+        },
+        {
+            "id":9,
+            "title" : "Pizza",
+            "icon":"http://www.dineout.co.in/blog/wp-content/uploads/2016/06/crusty-gourmet-pizza-more-sodelhi-com.jpg"
+        },
+        {
+            "id":10,
+            "title" : "Paneer",
+            "icon":"https://c.ndtvimg.com/2020-06/49iajf7g_mattar-paneer_625x300_17_June_20.jpg"
+        },
+        {
+            "id":11,
+            "title" : "ice cream",
+            "icon":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/5/17/0/WU2207_Mermaid-Ice-Cream_s4x3.jpg.rend.hgtvcom.826.620.suffix/1558112854371.jpeg"
+        },
+        {
+            "id":12,
+            "title" : "Biryani",
+            "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP6AlsY64CMBtlrPiP137YFtHq-asKTix06Q&usqp=CAU"
+        }
+    ]
+}

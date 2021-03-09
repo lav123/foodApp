@@ -1,3 +1,13 @@
+
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+.food_ItemList{
+  padding-left: 50px;
+  display: flex;
+  flex-wrap: wrap;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
